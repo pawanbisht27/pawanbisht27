@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=pawanbisht27&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/pawanbisht27?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/pawanbisht27?affiliations=OWNER&style=social" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -35,7 +35,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pawanbisht27&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -43,12 +43,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawanbisht27&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanbisht27&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbisht27&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
