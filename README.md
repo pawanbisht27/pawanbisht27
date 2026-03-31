@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pawanbisht27/pawanbisht27/main/banner.png" />
+</p><img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5a517186-fdf9-48eb-89eb-93951c326994" />
+
+
 # 👋 Hey, I'm Pawan Bisht
 
 <p align="center">
-https://raw.githubusercontent.com/pawanbisht27/pawanbisht27/main/banner.png  size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+App+Developer;Flutter+%7C+Node.js+%7C+MongoDB;Building+Real+World+Apps+🚀;AI+Integration+Enthusiast;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+App+Developer;Flutter+%7C+Node.js+%7C+MongoDB;Building+Real+World+Apps+🚀;AI+Integration+Enthusiast;Open+to+Internships+%26+Opportunities" />
 </p>
 
 <p align="center">
@@ -20,6 +25,8 @@ https://raw.githubusercontent.com/pawanbisht27/pawanbisht27/main/banner.png  siz
 * ⚙️ Backend Developer (Node.js, Express.js)
 * 🧠 Exploring AI Tools & Automation
 * 🚀 Building startup-level real-world applications
+
+<br>
 
 ---
 
@@ -52,7 +59,7 @@ https://raw.githubusercontent.com/pawanbisht27/pawanbisht27/main/banner.png  siz
 ### 🤖 Career Copilot
 
 * AI Resume Analyzer
-* Smart Career Suggestions
+* Career Guidance System
 * Full Stack Application
 
 ### 💬 Real-Time Chat App
