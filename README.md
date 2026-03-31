@@ -43,17 +43,17 @@
 ### 🤖 Career Copilot
 
 ✨ AI Resume Analyzer + Career Guidance
-🔗 Coming Soon
+
 
 ### 💬 Real-Time Chat App
 
 ✨ Live Messaging with Firebase
-🔗 Coming Soon
+
 
 ### 📢 Adkrity
 
 ✨ Ads Platform + Campaign System
-🔗 Coming Soon
+
 
 ---
 
