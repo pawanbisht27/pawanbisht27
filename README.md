@@ -79,7 +79,7 @@
 
 ---
 
-## ⚡ Developer Mindset
+## ⚡ Developer Minsdset
 
 ```diff id="t2t8f3"
 + Build Real Apps
