@@ -2,7 +2,7 @@
   <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/d55bbde1-bb7c-470c-96c6-7c7388e01167" />
   
 
-# 👋 Hey, I'm Pawan Bisht
+# 👋 Hey, I'm Pawan Bisht...
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+App+Developer;Flutter+%7C+Node.js+%7C+MongoDB;Building+Real+World+Apps+🚀;AI+Integration+Enthusiast;Open+to+Internships+%26+Opportunities" />
