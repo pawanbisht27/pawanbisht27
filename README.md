@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack App Developer • Flutter • Node.js • MongoDB • AI Integration</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Full+Stack+App+Builder;Node.js+%7C+Express.js+%7C+MongoDB;AI+Integration+Enthusiast;Building+Real+World+Projects;Open+to+Internships+and+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Full+Stack+App+Builder;Node.js+%7C+Express.js+%7C+MongoDB;AI+Integration+Enthusiast;Building+Real+World+Projects;Open+to+Internships+and+Opportunities" />
 </p>
 
 <p align="center">
