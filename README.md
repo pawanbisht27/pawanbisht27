@@ -50,68 +50,88 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
-### 🤖 Career Copilot
-AI-powered career guidance and resume improvement platform designed to help users track applications, enhance profiles, and receive smart career support.  
-**Tech Stack:** Flutter, Node.js, Express.js, MongoDB, AI Integration
 
-### 📢 Adkrity Clone
-A business ads and campaign management platform where users can create campaigns, publish ads, and manage engagement in a structured flow.  
-**Tech Stack:** Flutter, Node.js, Express.js, MongoDB
+<a href="#">
+  <img src="https://img.shields.io/badge/🤖%20Career%20Copilot-AI%20Career%20Platform-0A192F?style=for-the-badge" />
+</a>
 
-### 📰 Haldwani Times
-A modern news application inspired by TOI-style design with category-based browsing, clean UI, search, and live news integration.  
-**Tech Stack:** Flutter, REST API, News API
+AI-powered platform for resume improvement, application tracking, and smart career guidance.  
+**Stack:** Flutter • Node.js • MongoDB • AI  
 
-### 💬 Real-Time Chat App
-A smooth messaging application with modern UI and real-time communication features for instant user interaction.  
-**Tech Stack:** Flutter, Firebase
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/📢%20Adkrity-Ads%20%26%20Campaign%20System-0A192F?style=for-the-badge" />
+</a>
+
+Full-stack ads platform for businesses to create campaigns, post ads, and manage engagement.  
+**Stack:** Flutter • Node.js • MongoDB  
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/📰%20Haldwani%20Times-News%20Application-0A192F?style=for-the-badge" />
+</a>
+
+Modern news app with category-based browsing, clean UI, and real-time news updates.  
+**Stack:** Flutter • REST API  
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/💬%20Chat%20App-Real%20Time%20Messaging-0A192F?style=for-the-badge" />
+</a>
+
+Real-time messaging app with smooth UI and instant communication features.  
+**Stack:** Flutter • Firebase  
+
+</p>
 
 ---
 
 ## 💼 What I Bring
 
-- 📱 Cross-platform mobile app development
-- 🌐 Full stack application development
-- ⚡ Clean API integration and backend connectivity
-- 🤖 AI-powered feature integration
-- 🚀 Product-focused thinking with real-world project execution
+<p align="center">
+
+<img src="https://img.shields.io/badge/Mobile%20Apps-Flutter-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-Expert-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Integration-Learning-blue?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 🏆 Highlights
 
-- 🚀 Strong focus on real-world, resume-worthy projects
-- 📚 Continuously learning DSA, backend systems, and AI tools
-- 🛠️ Comfortable building both frontend and backend workflows
-- 🎯 Open to internships, collaborations, and development opportunities
+<p align="center">
+
+🔥 Building real-world, production-style apps  
+📚 Continuously improving DSA + backend  
+⚡ Strong in both frontend & backend  
+🎯 Open to internships & collaborations  
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawan-bisht-b4165b297" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:pawangbisht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/pawanbisht27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+
+<a href="https://www.linkedin.com/in/pawan-bisht-b4165b297">
+  <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Bisht-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pawangbisht@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/pawanbisht27">
+  <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
-
----
-
-## ⚡ Developer Mindset
-
-```diff
-+ Build Real Apps
-+ Solve Real Problems
-+ Learn by Doing
-+ Stay Consistent
-+ Keep Shipping
-+ Think Bigger
