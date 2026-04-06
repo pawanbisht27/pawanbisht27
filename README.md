@@ -47,12 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pawanbisht27&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanbisht27&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbisht27&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=pawanbisht27&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -60,7 +55,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanbisht27&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanbisht27&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
