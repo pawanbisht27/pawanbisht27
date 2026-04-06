@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pawan Bisht</h1>
-<h3 align="center"> Full Stack App Developer | Flutter | Node.js | MongoDB | AI Integration</h3>
+<h3 align="center">Full Stack App Developer • Flutter • Node.js • MongoDB • AI Integration</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Full+Stack+App+Builder;Node.js+%7C+Express.js+%7C+MongoDB;AI+Integration+Enthusiast;Building+Real+World+Projects;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Full+Stack+App+Builder;Node.js+%7C+Express.js+%7C+MongoDB;AI+Integration+Enthusiast;Building+Real+World+Projects;Open+to+Internships+and+Opportunities" />
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/pawanbisht27/pawanbisht27/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -25,12 +23,12 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech 3rd Year Student  
-- 📱 Flutter Developer building cross-platform apps  
-- ⚙️ Backend Developer with Node.js and Express.js  
-- 🗄️ Working with MongoDB, SQL, and Firebase  
-- 🤖 Interested in AI Tools, Automation, and Real-World Integration  
-- 🚀 Building startup-style real-world applications  
+- 🎓 B.Tech 3rd Year Student
+- 📱 Full Stack App Developer focused on cross-platform mobile applications
+- ⚙️ Backend development with Node.js and Express.js
+- 🗄️ Hands-on experience with MongoDB, SQL, and Firebase
+- 🤖 Exploring AI tools, automation, and practical integrations
+- 🚀 Passionate about building startup-style real-world products
 
 <br><br>
 
@@ -52,50 +50,43 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanbisht27&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
 ### 🤖 Career Copilot
-AI-powered career guidance and resume improvement platform built to help users track applications, improve profiles, and get smart career support.  
-**Tech:** Flutter, Node.js, Express.js, MongoDB, AI Integration
+AI-powered career guidance and resume improvement platform designed to help users track applications, enhance profiles, and receive smart career support.  
+**Tech Stack:** Flutter, Node.js, Express.js, MongoDB, AI Integration
 
 ### 📢 Adkrity Clone
-A business ads and campaign management platform where users can manage businesses, create campaigns, post ads, and track engagement.  
-**Tech:** Flutter, Node.js, Express.js, MongoDB
+A business ads and campaign management platform where users can create campaigns, publish ads, and manage engagement in a structured flow.  
+**Tech Stack:** Flutter, Node.js, Express.js, MongoDB
 
 ### 📰 Haldwani Times
-A TOI-style news application with category-based browsing, search, and real-time news integration.  
-**Tech:** Flutter, REST API, News API
+A modern news application inspired by TOI-style design with category-based browsing, clean UI, search, and live news integration.  
+**Tech Stack:** Flutter, REST API, News API
 
 ### 💬 Real-Time Chat App
-Live messaging application with smooth UI and backend-powered real-time communication features.  
-**Tech:** Flutter, Firebase
+A smooth messaging application with modern UI and real-time communication features for instant user interaction.  
+**Tech Stack:** Flutter, Firebase
 
 ---
 
-## 🧩 What I Do
+## 💼 What I Bring
 
-- 📱 Build scalable mobile applications  
-- 🌐 Develop full stack systems  
-- ⚡ Integrate AI into practical apps  
-- 🚀 Turn ideas into real digital products  
-- 💡 Focus on useful, modern, and production-style projects  
+- 📱 Cross-platform mobile app development
+- 🌐 Full stack application development
+- ⚡ Clean API integration and backend connectivity
+- 🤖 AI-powered feature integration
+- 🚀 Product-focused thinking with real-world project execution
 
 ---
 
 ## 🏆 Highlights
 
-- 🚀 Full Stack App Developer  
-- 📚 Consistently learning DSA, Flutter, Backend, and AI tools  
-- 🛠️ Passionate about building resume-worthy real-world projects  
-- 🎯 Open to internships, collaborations, and opportunities  
+- 🚀 Strong focus on real-world, resume-worthy projects
+- 📚 Continuously learning DSA, backend systems, and AI tools
+- 🛠️ Comfortable building both frontend and backend workflows
+- 🎯 Open to internships, collaborations, and development opportunities
 
 ---
 
