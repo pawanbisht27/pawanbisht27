@@ -50,7 +50,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
 
 <a href="#">
