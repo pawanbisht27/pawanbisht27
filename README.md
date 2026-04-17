@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,firebase,git,github,vscode,postman,cpp,mysql" />
