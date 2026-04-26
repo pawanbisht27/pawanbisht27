@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 Tech Stack 
+##  Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,firebase,git,github,vscode,postman,cpp,mysql" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=pawanbisht27&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 🚀 Featured Projects 
+##  Featured Projects 
 
 
 <a href="#">
@@ -91,7 +91,7 @@ Real-time messaging app with smooth UI and instant communication features.
 
 ---
 
-## 💼 What I Bring
+##  What I Bring
 
 <p align="center">
 
@@ -105,7 +105,7 @@ Real-time messaging app with smooth UI and instant communication features.
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 <p align="center">
 
@@ -118,7 +118,7 @@ Real-time messaging app with smooth UI and instant communication features.
 
 ---
 
-## 🌐 Connect With Me 
+##  Connect With Me 
 
 <p align="center">
 
