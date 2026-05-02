@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Bisht</h1> 
-<h3 align="center">Full Stack App Developer • Flutter • Node.js • MongoDB • AI Integration</h3>
+<h3 align="center">Full Stack Mobile App Developer • Flutter • Node.js • MongoDB • AI Integration</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Full+Stack+App+Builder;Node.js+%7C+Express.js+%7C+MongoDB;AI+Integration+Enthusiast;Building+Real+World+Projects;Open+to+Internships+and+Opportunities" />
@@ -19,20 +19,35 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
 
-- 🎓 B.Tech 3rd Year Student
-- 📱 Full Stack App Developer focused on cross-platform mobile applications
-- ⚙️ Backend development with Node.js and Express.js
-- 🗄️ Hands-on experience with MongoDB, SQL, and Firebase
-- 🤖 Exploring AI tools, automation, and practical integrations
-- 🚀 Passionate about building startup-style real-world products
+```typescript
+  const pawan: Developer = {
+  name     : "Pawan Bisht",
+  title    : "Full Stack Mobile App Developer",
+  location : "Haldwani Uttarakhand",
 
-<br><br>
+  frontend : ["Flutter 📱", "Dart 🎯", "UI/UX Design 🎨"],
 
----
+  backend  : ["Node.js 🟢", "Express.js 🚀", "REST APIs 🔌",
+              "JWT Auth 🔐", "Socket.io 💬"],
+
+  database : ["MongoDB 🍃", "Mongoose ODM", "SQL"],
+
+  learning : ["DSA 🧠", "System Design 🏗️", "AI Integration 🤖"],
+
+  tools    : ["Git & GitHub", "Postman 📮", "MongoDB Compass 🧩",
+              "VS Code 💻", "Android Studio 📱"],
+
+  openTo   : ["Internships 🎯", "Freelance 💼", "Full-Time Roles 🚀"],
+
+  motto    : "Build fast. Ship clean. Scale smart. 🚀",
+};
+```
+
+<br clear="right"/>
 
 ##  Tech Stack 
 
@@ -100,19 +115,6 @@ Real-time messaging app with smooth UI and instant communication features.
 <img src="https://img.shields.io/badge/Database-MongoDB-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API%20Integration-Expert-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Integration-Learning-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-##  Highlights
-
-<p align="center">
-
-🔥 Building real-world, production-style apps  
-📚 Continuously improving DSA + backend  
-⚡ Strong in both frontend & backend  
-🎯 Open to internships & collaborations  
 
 </p>
 
