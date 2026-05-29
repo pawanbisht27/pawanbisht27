@@ -127,8 +127,6 @@ Real-time messaging app with smooth UI and instant communication features.
 <a href="https://www.linkedin.com/in/pawan-bisht-b4165b297">
   <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Bisht-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
-
 <a href="mailto:pawangbisht@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
