@@ -148,8 +148,6 @@ A messaging application focused on communication and user experience.
 
 `FRONTEND` `APIs` `REAL-TIME SYSTEMS`
 
-> **Customize these entries:** Link each project to its actual repository and update the descriptions to match its real features. Remove projects that aren't yours.
-
 ---
 
 ## `04` // DEVELOPMENT.workflow
