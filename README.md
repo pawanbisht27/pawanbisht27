@@ -218,7 +218,7 @@ echo "STATUS: ALWAYS LEARNING"
 <a href="https://github.com/pawanbisht27">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/pawan-bisht-b4165b297">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
