@@ -5,7 +5,7 @@ GitHub: pawanbisht27
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=PAWAN%20BISHT&fontSize=65&fontColor=00E5FF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%2F%20GENAI%20ENGINEER&descSize=16&descAlignY=63&color=0:0B1020,100:15102B" alt="Pawan Bisht Developer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=PAWAN%20BISHT&fontSize=65&fontColor=00E5FF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20APPLICATION%20DEVELOPER%20%2F%20GEN%20AI%20ENGINEER&descSize=16&descAlignY=63&color=0:0B1020,100:15102B" alt="Pawan Bisht Developer Banner"/>
 
 <br/>
 
@@ -44,7 +44,7 @@ GitHub: pawanbisht27
 ```dart
 class DeveloperProfile {
   final String name = 'Pawan Bisht';
-  final String role = 'Full Stack Developer';
+  final String role = 'Full Stack Application Developer';
   final String specialization = 'Generative AI';
 
   final List<String> interests = [
