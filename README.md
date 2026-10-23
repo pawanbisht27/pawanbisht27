@@ -1,139 +1,243 @@
-<h1 align="center">Hi 👋, I'm Pawan Bisht</h1> 
-<h3 align="center">Full Stack Mobile App Developer • Flutter • Node.js • MongoDB • AI Integration</h3>
+<!--
+PAWAN BISHT | PREMIUM DEVELOPER PROFILE
+GitHub: pawanbisht27
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Full+Stack+App+Builder;Node.js+%7C+Express.js+%7C+MongoDB;AI+Integration+Enthusiast;Building+Real+World+Projects;Open+to+Internships+and+Opportunities" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawanbisht27&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/pawanbisht27?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20Backend%20%7C%20AI-blue" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=PAWAN%20BISHT&fontSize=65&fontColor=00E5FF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%2F%20GENAI%20ENGINEER&descSize=16&descAlignY=63&color=0:0B1020,100:15102B" alt="Pawan Bisht Developer Banner"/>
 
----
-
-<p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pawanbisht27/pawanbisht27/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
-## About Me
-
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
-
-```typescript
-  const pawan: Developer = {
-  name     : "Pawan Bisht",
-  title    : "Full Stack Mobile App Developer",
-  location : "Haldwani Uttarakhand",
-
-  frontend : ["Flutter 📱", "Dart 🎯", "UI/UX Design 🎨"],
-
-  backend  : ["Node.js 🟢", "Express.js 🚀", "REST APIs 🔌",
-              "JWT Auth 🔐", "Socket.io 💬"],
-
-  database : ["MongoDB 🍃", "Mongoose ODM", "SQL"],
-
-  learning : ["DSA 🧠", "System Design 🏗️", "AI Integration 🤖"],
-
-  tools    : ["Git & GitHub", "Postman 📮", "MongoDB Compass 🧩",
-              "VS Code 💻", "Android Studio 📱"],
-
-  openTo   : ["Internships 🎯", "Freelance 💼", "Full-Time Roles 🚀"],
-
-  motto    : "Build fast. Ship clean. Scale smart. 🚀",
-};
-```
-
-<br clear="right"/>
-
-##  Tech Stack 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,firebase,git,github,vscode,postman,cpp,mysql" />
-</p>
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=pawanbisht27&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-##  Featured Projects 
-
-
-<a href="#">
-  <img src="https://img.shields.io/badge/🤖%20Career%20Copilot-AI%20Career%20Platform-0A192F?style=for-the-badge" />
-</a>
-
-AI-powered platform for resume improvement, application tracking, and smart career guidance.  
-**Stack:** Flutter • Node.js • MongoDB • AI  
-
-<br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/📢%20Adkrity-Ads%20%26%20Campaign%20System-0A192F?style=for-the-badge" />
-</a>
-
-Full-stack ads platform for businesses to create campaigns, post ads, and manage engagement.  
-**Stack:** Flutter • Node.js • MongoDB  
-
-<br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/📰%20Haldwani%20Times-News%20Application-0A192F?style=for-the-badge" />
-</a>
-
-Modern news app with category-based browsing, clean UI, and real-time news updates.  
-**Stack:** Flutter • REST API  
-
-<br>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/💬%20Chat%20App-Real%20Time%20Messaging-0A192F?style=for-the-badge" />
-</a>
-
-Real-time messaging app with smooth UI and instant communication features.  
-**Stack:** Flutter • Firebase  
-
-</p>
-
----
-
-##  What I Bring
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Mobile%20Apps-Flutter-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Node.js-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-MongoDB-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Integration-Expert-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Integration-Learning-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-##  Connect With Me 
-
-<p align="center">
-
-
-<a href="https://www.linkedin.com/in/pawan-bisht-b4165b297">
-  <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Bisht-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:pawangbisht@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+<br/>
 
 <a href="https://github.com/pawanbisht27">
-  <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=pawanbisht27&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/pawanbisht27?tab=followers">
+<img src="https://img.shields.io/github/followers/pawanbisht27?style=for-the-badge&label=FOLLOWERS&color=7C3AED" alt="Followers"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-059669?style=for-the-badge" alt="Developer Status"/>
+
+<br/><br/>
+
+<a href="#about">ABOUT</a> &nbsp; ◆ &nbsp;
+<a href="#stack">STACK</a> &nbsp; ◆ &nbsp;
+<a href="#projects">PROJECTS</a> &nbsp; ◆ &nbsp;
+<a href="#stats">STATS</a> &nbsp; ◆ &nbsp;
+<a href="#contact">CONTACT</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `root@pawan-bisht:~$ whoami`
+
+**Developer. Problem Solver. Builder of Digital Experiences.**
+
+</div>
+
+<a id="about"></a>
+
+## `01` // ABOUT_ME.dart
+
+```dart
+class DeveloperProfile {
+  final String name = 'Pawan Bisht';
+  final String role = 'Full Stack Developer';
+  final String specialization = 'Generative AI';
+
+  final List<String> interests = [
+    'Modern Web Applications',
+    'AI-Powered Products',
+    'Backend Engineering',
+    'Scalable Software',
+    'Clean UI/UX',
+  ];
+
+  String get mindset => 'Learn. Build. Improve. Repeat.';
+}
+```
+
+Hey! 👋 I'm **Pawan Bisht**, a developer passionate about building modern web applications, AI-powered products, and scalable digital experiences.
+
+- ⚡ Developing modern web applications
+- 🤖 Exploring Generative AI and intelligent products
+- 🧩 Building APIs and database-driven systems
+- 🎨 Creating responsive, polished user interfaces
+- 🌱 Learning new technologies and improving continuously
+- 🤝 Open to interesting collaborations
+
+> `// Build with purpose. Design with intent. Ship with confidence.`
+
+---
+
+<a id="stack"></a>
+
+## `02` // TECH_STACK.config
+
+<div align="center">
+
+**[ FRONTEND ]**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind" alt="Frontend technologies"/>
+
+<br/><br/>
+
+**[ BACKEND & DATABASES ]**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql,postgres" alt="Backend and database technologies"/>
+
+<br/><br/>
+
+**[ TOOLS & WORKFLOW ]**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel" alt="Developer tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/WEB_ENGINEERING-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web engineering"/>
+
+</div>
+
+---
+
+<a id="projects"></a>
+
+## `03` // PROJECTS.registry
+
+<div align="center">
+
+<a href="https://github.com/pawanbisht27?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
-</p>
+</div>
+
+### `01` — Haldwani Times
+
+**Digital News & Local Information Platform**
+
+A digital platform for news, articles, and local community information.
+
+`WEB DEVELOPMENT` `CONTENT PLATFORM` `SEO`
+
+### `02` — Career Copilot
+
+**AI-Powered Career Assistance**
+
+An AI-focused project for career-related workflows.
+
+`GENERATIVE AI` `AUTOMATION` `WEB APPLICATION`
+
+### `03` — Adkrity
+
+**Digital Advertising & Promotion**
+
+A digital project focused on online promotion and business visibility.
+
+`WEB DEVELOPMENT` `DIGITAL BUSINESS` `MARKETING`
+
+### `04` — Chat Application
+
+**Communication & Messaging**
+
+A messaging application focused on communication and user experience.
+
+`FRONTEND` `APIs` `REAL-TIME SYSTEMS`
+
+> **Customize these entries:** Link each project to its actual repository and update the descriptions to match its real features. Remove projects that aren't yours.
+
+---
+
+## `04` // DEVELOPMENT.workflow
+
+```bash
+#!/usr/bin/env bash
+
+echo "[01] ANALYZE   -> Understand the problem"
+echo "[02] ARCHITECT -> Design the solution"
+echo "[03] DEVELOP   -> Write maintainable code"
+echo "[04] TEST      -> Validate functionality"
+echo "[05] IMPROVE   -> Refine the experience"
+echo "[06] DEPLOY    -> Deliver the product"
+
+echo "STATUS: ALWAYS LEARNING"
+```
+
+---
+
+<a id="stats"></a>
+
+## `05` // GITHUB.performance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pawanbisht27&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=64748B" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbisht27&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=0891B2&text_color=64748B" width="49%" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=pawanbisht27&hide_border=true&background=00000000&ring=7C3AED&fire=DB2777&currStreakLabel=0891B2&sideLabels=64748B&currStreakNum=0891B2&sideNums=7C3AED&dates=64748B" width="75%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `06` // CURRENT_FOCUS.json
+
+```json
+{
+  "focus": [
+    "Full Stack Development",
+    "Generative AI",
+    "Backend Engineering",
+    "Scalable Applications",
+    "Modern UI/UX"
+  ],
+  "principles": [
+    "Write maintainable code",
+    "Build useful products",
+    "Keep learning",
+    "Improve continuously"
+  ],
+  "mode": "BUILDING"
+}
+```
+
+---
+
+<a id="contact"></a>
+
+## `07` // ESTABLISH_CONNECTION
+
+<div align="center">
+
+**Have an interesting project or idea? Let's connect.**
+
+<a href="https://github.com/pawanbisht27">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+```text
++---------------------------------------+
+| STATUS : OPEN TO LEARNING & BUILDING  |
+| MINDSET: BUILD WITH PURPOSE           |
+| NEXT   : THE NEXT GREAT PROJECT       |
++---------------------------------------+
+```
+
+**Thanks for visiting my profile! ⭐**
+
+*Keep building. Keep exploring. Keep evolving.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:7C3AED,100:DB2777&height=110&section=footer" alt="Decorative footer"/>
+
+</div>
